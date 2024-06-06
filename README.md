@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Git/GitHub.
 - 💞️ I’m looking to collaborate on company projects
 - 📫 How to reach me: Email
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I occasionally do digital art and graphic designing in my free time/as a hobby!
