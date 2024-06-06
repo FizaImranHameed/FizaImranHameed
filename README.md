@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FizaImranHameed
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Git/GitHub.
-- 💞️ I’m looking to collaborate on company projects
+- 💞️ I’m looking to collaborate on my company;s projects
 - 📫 How to reach me: Email
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I occasionally do digital art and graphic designing in my free time/as a hobby!
