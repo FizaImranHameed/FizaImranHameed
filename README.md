@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FizaImranHameed
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in Project Management
 - 🌱 I’m currently learning Git/GitHub and various cybersecurity topics.
 - 💞️ I’m looking to collaborate on my company's projects
 - 📫 How to reach me: Email
